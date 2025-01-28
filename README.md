@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Paranjape</h1>
-<h3 align="center">A passionate Data Science Grad Student looking for Internships and Co-op Opportunities!</h3>
+<h3 align="center">A passionate Data Science Grad Student looking for FullTime Data Scientist Opportunities!</h3>
 I am a graduate student at Northeastern University, Boston pursuing my Master's Degree in Data Science.<br>
 🎯 I am primarily interested in data science and machine learning.<br>
 🧩 I love creating amazing things using code.<br>
@@ -22,6 +22,4 @@ I am a graduate student at Northeastern University, Boston pursuing my Master's 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan4120&show_icons=true&locale=en&layout=compact" alt="sudarshan4120" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan4120&show_icons=true&locale=en" alt="sudarshan4120" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan4120&" alt="sudarshan4120" /></p>
 
