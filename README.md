@@ -1,23 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Paranjape</h1>
-<h3 align="center">A passionate Data Science Grad Student looking for FullTime Data Scientist Opportunities!</h3>
-I am a graduate student at Northeastern University, Boston pursuing my Master's Degree in Data Science.<br>
-🎯 I am primarily interested in data science and machine learning.<br>
-🧩 I love creating amazing things using code.<br>
-🥁 Fun fact: I am an amateur drummer and Violinist <br>
-🖖 Feel free to go through my repositories , you might find something interesting.<br>
+# Hi there 👋
+# I'm Sudarshan Paranjape
+📊 Data Scientist | ML Engineer | NLP Specialist | AI Researcher
+
+🔍 Passionate about transforming complex data challenges into intelligent solutions, I specialize in natural language processing, predictive modeling, and ETL pipelines. With experience in automated essay evaluation and RAG systems, I thrive at the intersection of AI and practical applications.
+
+# 💡 What I Do:
+- Develop advanced NLP systems with RAG, BERT embeddings, and transformer models
+- Create efficient data processing pipelines with AWS, Azure, and ETL workflows
+- Design predictive models for time series forecasting and decision optimization
+- Implement ML solutions with focus on real-world impact and scalability
+
+# 📌 Experience:
+🔹 **Graduate Research Assistant @ Northeastern University** (2024 - Present)
+- Developed an NLP-powered essay grading system improving Kappa Score from 47% to 76%
+- Engineered pipelines for 1,200+ essay submissions with Neural Networks and LSTMs
+
+🔹 **Data Science Intern @ TryCatch Group** (2023)
+- Built BI dashboards with AWS services (S3, Redshift, Athena) improving analytics by 50%
+- Developed customer segmentation models achieving 85% accuracy, enhancing forecasting by $83,400 annually
+
+🔹 **Data Scientist @ Pacific Coatings** (2022)
+- Created time series forecasting models boosting retentions by 25%
+- Optimized inventory management saving $150,000 annually through 15-day reduction in stockpiling
+
+# 📌 Projects:
+- **🤖 UniQbot** – Implemented a RAG-powered chatbot with BERT embeddings and FAISS vector database handling 500+ daily queries with 92% satisfaction rate
+
+- **💬 QueryFi** – Orchestrated Text2SQL transformation using T5, BART, and NMT models, creating an efficient natural language to SQL system with 96% accuracy
+
+- **📊 AdventureWorks** – Built scalable ETL pipeline with Azure Data Factory processing 10k+ records, improving efficiency by 40% and reducing manual intervention by 80%
+
+# 🔧 Technical Skills:
+- Languages: Python, R, Java, C++, SQL
+- ML/DL: PyTorch, Keras, TensorFlow, Scikit-Learn, Neural Networks (CNN, RNN)
+- NLP: NLTK, Spacy, LangChain, HuggingFace, BERT
+- Cloud: AWS (EC2, SageMaker, Lambda), GCP, Azure
+- Data: MySQL, PostgreSQL, Spark SQL, RDBMS, Redshift
+- Tools: Linux(UNIX), Tableau, PowerBI, MS Excel, Docker, Kubernetes, Github, Apache Airflow
+
+# 📚 Education:
+- 🎓 MS in Data Science @ Northeastern University (GPA: 4.0/4.0) - 2025 
+- 🎓 BE in Electronics and Telecommunications @ Mumbai University (GPA: 3.9/4.0) - 2022
+
+# 🚀 Let's Connect!
+
+📩 Email: suyashssp1@gmail.com  /  paranjape.su@northeastern.edu
+
+📱 Phone: 857-200-4575
+
+🔗 LinkedIn: https://www.linkedin.com/in/sudarshan-paranjape/
+
+🌐 GitHub: https://github.com/SudarParanjape
 
 
-- 🌱 I’m currently learning **Masters of Science in Data Science**
-
-- 📫 How to reach me **paranjape.su@northeastern.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudarshanp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshanp4" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan4120&show_icons=true&locale=en&layout=compact" alt="sudarshan4120" /></p>
 
