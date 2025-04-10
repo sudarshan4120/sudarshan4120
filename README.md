@@ -2,6 +2,11 @@
 # I'm Sudarshan Paranjape
 📊 Data Scientist | ML Engineer | NLP Specialist | AI Researcher
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=DurgeshS-25&label=Profile%20Views&color=brightgreen&style=flat)
+
+---
+
 🔍 Passionate about transforming complex data challenges into intelligent solutions, I specialize in natural language processing, predictive modeling, and ETL pipelines. With experience in automated essay evaluation and RAG systems, I thrive at the intersection of AI and practical applications.
 
 # 💡 What I Do:
